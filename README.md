@@ -2,6 +2,7 @@
 
 ## Description
 The dataset consists of 500,000 images for multi-country natural scenes and document OCR, including 20 languages such as Traditional Chinese, Japanese, Korean, Indonesian, Malay, Thai, Vietnamese, Polish, etc. The diversity includes various natural scenarios and multiple shooting angles. This set of data can be used for multi-language OCR tasks.
+
 For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1759?source=Github
 
 ## Specifications
